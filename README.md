@@ -20,11 +20,10 @@ GET - /api/v1/rooms
 * Buscar uma sala pelo Id
 GET - /api/v1/rooms/{id}
 
-* Atualizar uma sala pelo Id:
+* Atualizar uma sala pelo Id
 PUT - /api/v1/rooms/{id}
 
-* Excluir uma sala
-
+* Excluir uma sala pelo id
 DELETE - /api/v1/rooms/{Id}
 
 
